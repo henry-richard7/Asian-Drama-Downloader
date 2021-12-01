@@ -7,7 +7,7 @@
  * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 
 # How To Use?
- * Download and Extract Asian Drama Downloader from Releases.
+ * Download and Extract Asian Drama Downloader from [Releases](https://github.com/henry-richard7/Asian-Drama-Downloader/releases) or from [Here](https://github.com/henry-richard7/Asian-Drama-Downloader/releases/download/v1.0/Asian.Drama.Downloader.zip).
  * Open the .exe file.
  * Enter the name of the series or movie you want to search and click Search Button.
  * The app shows all the results.
