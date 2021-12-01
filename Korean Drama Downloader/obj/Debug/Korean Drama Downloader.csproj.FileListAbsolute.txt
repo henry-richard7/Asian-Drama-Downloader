@@ -1,0 +1,13 @@
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\Korean Drama Downloader.exe.config
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\Korean Drama Downloader.exe
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\Korean Drama Downloader.pdb
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean_Drama_Downloader.Form1.resources
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean_Drama_Downloader.Properties.Resources.resources
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean Drama Downloader.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean Drama Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean Drama Downloader.csproj.CopyComplete
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean Drama Downloader.exe
+C:\Users\Henry\source\repos\Korean Drama Downloader\Korean Drama Downloader\obj\Debug\Korean Drama Downloader.pdb
